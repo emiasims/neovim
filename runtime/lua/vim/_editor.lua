@@ -33,6 +33,8 @@ for k, v in pairs({
   F = true,
   lsp = true,
   hl = true,
+  co = true,
+  pipe = true,
   diagnostic = true,
   keymap = true,
   ui = true,
